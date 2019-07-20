@@ -2,7 +2,7 @@
 Project on the hack-cyprus-2019 hackathon
 
 ### Idea for to be implemented: 
-Crypto paying widget for the merchants suplied wiht trezor blockbook based backend.
+Crypto paying widget for the merchants. Webhook based notification of mechant on incoming payment.  
 
 ### Prerequisites & assumption
 - Merchant has bitcoin address or seed pharase. For the demo purposes we seed and address will be created using https://iancoleman.io/bip39/ website.
