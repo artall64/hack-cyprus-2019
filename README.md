@@ -23,3 +23,16 @@ Crypto paying widget for the merchants suplied wiht trezor blockbook based backe
 - Modal dialog with QR code should be shown. Modal dialog should be created via WebComopnent. QR code should contain payment details.
 - User uses his mobile wallet to scan QR and send transaction
 - Blockbook based backend detects new transaction in pool or withint the block and calls webhook specified by merchant
+
+### Task to be done, critical path:
+- [ ] Very simple mechant dashboard
+- [ ] Button WebComponent 
+- [ ] Modal dialog WebComponent
+- [ ] Develop block monitoring backend 
+- [ ] Record 1 minute video
+
+### Optional task:
+- [ ] Setup TS + Rollup build system for web component
+- [ ] Guide on webcomopnet customization
+- [ ] Docker compose setup for monitoring backend, and mock of merchant backend
+- [ ] API for merchant to automatically add address for monitoring
